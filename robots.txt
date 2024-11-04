@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://enofuozi.github.io/MOb/sitemap_index.txt
+Sitemap: https://enofuozi.github.io/pic/sitemap_index.txt
+Sitemap: https://enofuozi.github.io/tkN/sitemap_index.txt
+Sitemap: https://enofuozi.github.io/vyb/sitemap_index.txt
